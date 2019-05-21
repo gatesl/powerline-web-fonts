@@ -1,4 +1,10 @@
 @font-face {
+    font-family: "UbuntuNerdFontCompleteMono";
+    src: local("UbuntuNerdFontCompleteMono"),
+         url("fonts/UbuntuNerdFontCompleteMono.woff2") format("woff2");
+}
+
+@font-face {
     font-family: "Ubuntu Nerd Font Complete Mono";
     src: local("Ubuntu Nerd Font Complete Mono"),
          url("fonts/Ubuntu Nerd Font Complete Mono.woff2") format("woff2");
