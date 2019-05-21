@@ -1,4 +1,10 @@
 @font-face {
+    font-family: "Ubuntu Nerd Font Complete Mono";
+    src: local("Ubuntu Nerd Font Complete Mono"),
+         url(fonts/UbuntuNerdFontCompleteMono.woff2) format("woff2");
+}
+
+@font-face {
     font-family: "Anonymous Pro";
     src: local("Anonymice Powerline"),
          url(fonts/AnonymousPro.woff2) format("woff2");
