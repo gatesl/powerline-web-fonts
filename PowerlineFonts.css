@@ -1,37 +1,37 @@
 @font-face {
     font-family: "UbuntuNerdFontCompleteMono";
-    src: local("UbuntuNerdFontCompleteMono"),
+    src: local('UbuntuNerdFontCompleteMono'),
          url(fonts/UbuntuNerdFontCompleteMono.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Ubuntu Nerd Font Complete Mono";
-    src: local("Ubuntu Nerd Font Complete Mono"),
+    src: local('Ubuntu Nerd Font Complete Mono'),
          url(fonts/Ubuntu Nerd Font Complete Mono.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Ubuntu Nerd Font Complete";
-    src: local("Ubuntu Nerd Font Complete"),
+    src: local('Ubuntu Nerd Font Complete'),
          url(fonts/Ubuntu Nerd Font Complete.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Anonymous Pro";
-    src: local("Anonymice Powerline"),
+    src: local('Anonymice Powerline'),
          url(fonts/AnonymousPro.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "DejaVu Sans Mono";
-    src: local("DejaVu Sans Mono for Powerline"),
+    src: local('DejaVu Sans Mono for Powerline'),
          url(fonts/DejaVuSansMono.woff2) format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "DejaVu Sans Mono";
-    src: local("DejaVu Sans Mono for Powerline"),
+    src: local("DejaVu Sans Mono for Powerline'),
          url(fonts/DejaVuSansMono-Bold.woff2) format('woff2');
     font-weight: bold;
     font-style: normal;
@@ -39,52 +39,52 @@
 
 @font-face {
     font-family: "Hack";
-    src: local("Hack"),
+    src: local('Hack'),
          url(fonts/Hack.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Inconsolata";
-    src: local("Inconsolata for Powerline"),
+    src: local('Inconsolata for Powerline'),
          url(fonts/Inconsolata.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Inconsolata-g";
-    src: local("Inconsolata-g for Powerline"),
+    src: local('Inconsolata-g for Powerline'),
          url(fonts/Inconsolata-g.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Iosevka";
-    src: local("Iosevka"),
+    src: local('Iosevka'),
          url(fonts/iosevka-term-medium.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Liberation Mono";
-    src: local("Literation Mono Powerline"),
+    src: local('Literation Mono Powerline'),
          url(fonts/LiberationMono.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "PT Mono";
-    src: local("PT Mono for Powerline"),
+    src: local('PT Mono for Powerline'),
          url(fonts/PTMono.woff2) format('woff2');
 }
 
 @font-face {
     font-family: "Source Code Pro";
-    src: local("Source Code Pro for Powerline"),
-         local("Sauce Code Powerline"),
+    src: local('Source Code Pro for Powerline'),
+         local('Sauce Code Powerline'),
          url(fonts/SourceCodePro.woff2) format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "Source Code Pro";
-    src: local("Source Code Pro for Powerline"),
-         local("Sauce Code Powerline"),
+    src: local('Source Code Pro for Powerline'),
+         local('Sauce Code Powerline'),
          url(fonts/SourceCodePro-Bold.woff2) format('woff2');
     font-weight: bold;
     font-style: normal;
@@ -92,7 +92,7 @@
 
 @font-face {
     font-family: "Ubuntu Mono";
-    src: local("Ubuntu Mono derivative Powerline"),
+    src: local('Ubuntu Mono derivative Powerline'),
          url(fonts/UbuntuMono.woff2) format('woff2');
 }
 
