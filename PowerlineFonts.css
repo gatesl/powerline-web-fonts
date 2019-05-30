@@ -31,7 +31,7 @@
 }
 @font-face {
     font-family: "DejaVu Sans Mono";
-    src: local("DejaVu Sans Mono for Powerline'),
+    src: local('DejaVu Sans Mono for Powerline'),
          url(fonts/DejaVuSansMono-Bold.woff2) format('woff2');
     font-weight: bold;
     font-style: normal;
